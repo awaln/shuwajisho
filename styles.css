@@ -1,0 +1,32 @@
+#banner {
+	position: absolute;
+	height: 100px;
+	width: 400px;
+	margin: 0 0 0 0;
+	color: 0xFF44ee;
+}
+
+#banner > p {
+	text-align: center;
+	font-size: 50px;
+	margin: 0 0 0 0;
+}
+
+#fakebanner {
+	height: 100px;
+	width: 100%;
+}
+
+#categories {
+	height: auto;
+	width: 100%;
+}
+
+.category {
+	width: 200px;
+	height: auto;
+}
+
+.category > p {
+	font-size: 20px;
+}
